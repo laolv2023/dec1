@@ -1,0 +1,110 @@
+[11:48:18.812] === SVAC Enhanced Decoder Log ===
+[11:48:18.812] Input: E:/test_svac_1080P.svac
+[11:48:18.812] Output: E:/part_10s_video_2.yuv
+[11:48:18.838] Detected SVAC raw stream format
+[11:48:18.838] Exe directory: E:\wison_svac_decode
+[11:48:18.976] VNplayer.dll loaded at 10000000
+[11:48:18.976] VNplayer.dll loaded successfully
+[11:48:18.977] Got port: 0
+[11:48:19.052] File opened successfully
+[11:48:19.500] Playback started
+[11:48:19.500] Decoding all frames...
+[11:48:21.501] Current frames: 65
+[11:48:22.412] Decoded 100 frames (I:0 P:100 B:0) - 29.77 fps
+[11:48:23.502] Current frames: 143
+[11:48:25.060] Decoded 200 frames (I:4 P:194 B:2) - 33.24 fps
+[11:48:25.503] Current frames: 216
+[11:48:27.503] Current frames: 292
+[11:48:27.763] Decoded 300 frames (I:4 P:294 B:2) - 34.41 fps
+[11:48:29.504] Current frames: 370
+[11:48:30.267] Decoded 400 frames (I:4 P:394 B:2) - 35.65 fps
+[11:48:31.504] Current frames: 448
+[11:48:32.773] Decoded 500 frames (I:4 P:494 B:2) - 36.41 fps
+[11:48:33.505] Current frames: 525
+[11:48:35.506] Current frames: 583
+[11:48:36.313] Decoded 600 frames (I:4 P:594 B:2) - 34.75 fps
+[11:48:37.506] Current frames: 641
+[11:48:39.050] Decoded 700 frames (I:4 P:694 B:2) - 35.00 fps
+[11:48:39.507] Current frames: 719
+[11:48:41.508] Current frames: 798
+[11:48:41.576] Decoded 800 frames (I:4 P:794 B:2) - 35.51 fps
+[11:48:43.508] Current frames: 873
+[11:48:44.319] Decoded 900 frames (I:8 P:889 B:3) - 35.62 fps
+[11:48:45.509] Current frames: 947
+[11:48:46.895] Decoded 1000 frames (I:15 P:982 B:3) - 35.91 fps
+[11:48:47.510] Current frames: 1025
+[11:48:49.510] Current frames: 1094
+[11:48:49.702] Decoded 1100 frames (I:16 P:1081 B:3) - 35.88 fps
+[11:48:51.511] Current frames: 1171
+[11:48:52.403] Decoded 1200 frames (I:16 P:1181 B:3) - 35.97 fps
+[11:48:53.512] Current frames: 1240
+[11:48:55.046] Decoded 1300 frames (I:16 P:1281 B:3) - 36.11 fps
+[11:48:55.512] Current frames: 1318
+[11:48:57.512] Current frames: 1395
+[11:48:57.638] Decoded 1400 frames (I:32 P:1363 B:5) - 36.28 fps
+[11:48:59.514] Current frames: 1473
+[11:49:00.416] Decoded 1500 frames (I:33 P:1462 B:5) - 36.25 fps
+[11:49:01.515] Current frames: 1531
+[11:49:03.516] Current frames: 1578
+[11:49:04.451] Decoded 1600 frames (I:35 P:1560 B:5) - 35.24 fps
+[11:49:05.516] Current frames: 1624
+[11:49:07.517] Current frames: 1699
+[11:49:07.642] Decoded 1700 frames (I:35 P:1660 B:5) - 34.98 fps
+[11:49:09.517] Current frames: 1765
+[11:49:10.504] Decoded 1800 frames (I:35 P:1760 B:5) - 34.98 fps
+[11:49:11.518] Current frames: 1828
+[11:49:13.314] Decoded 1900 frames (I:35 P:1860 B:5) - 35.01 fps
+[11:49:13.519] Current frames: 1906
+[11:49:15.519] Current frames: 1985
+[11:49:15.883] Decoded 2000 frames (I:38 P:1954 B:8) - 35.18 fps
+[11:49:17.520] Current frames: 2052
+[11:49:18.728] Decoded 2100 frames (I:38 P:2054 B:8) - 35.18 fps
+[11:49:19.521] Current frames: 2129
+[11:49:21.348] Decoded 2200 frames (I:38 P:2154 B:8) - 35.31 fps
+[11:49:21.521] Current frames: 2206
+[11:49:23.522] Current frames: 2266
+[11:49:24.551] Decoded 2300 frames (I:38 P:2254 B:8) - 35.11 fps
+[11:49:25.523] Current frames: 2336
+[11:49:27.524] Current frames: 2396
+[11:49:27.632] Decoded 2400 frames (I:39 P:2351 B:10) - 35.00 fps
+[11:49:29.525] Current frames: 2462
+[11:49:30.491] Decoded 2500 frames (I:39 P:2451 B:10) - 35.00 fps
+[11:49:31.526] Current frames: 2539
+[11:49:33.063] Decoded 2600 frames (I:39 P:2551 B:10) - 35.13 fps
+[11:49:33.527] Current frames: 2614
+[11:49:35.527] Current frames: 2674
+[11:49:37.211] Decoded 2700 frames (I:39 P:2651 B:10) - 34.54 fps
+[11:49:37.528] Current frames: 2710
+[11:49:39.529] Current frames: 2765
+[11:49:40.462] Decoded 2800 frames (I:39 P:2751 B:10) - 34.39 fps
+[11:49:41.529] Current frames: 2841
+[11:49:43.157] Decoded 2900 frames (I:41 P:2848 B:11) - 34.48 fps
+[11:49:43.530] Current frames: 2909
+[11:49:45.531] Current frames: 2972
+[11:49:46.382] Decoded 3000 frames (I:41 P:2948 B:11) - 34.35 fps
+[11:49:47.532] Current frames: 3043
+[11:49:48.954] Decoded 3100 frames (I:41 P:3048 B:11) - 34.48 fps
+[11:49:49.532] Current frames: 3123
+[11:49:51.533] Current frames: 3196
+[11:49:51.631] Decoded 3200 frames (I:41 P:3148 B:11) - 34.57 fps
+[11:49:53.534] Current frames: 3255
+[11:49:55.115] Decoded 3300 frames (I:41 P:3248 B:11) - 34.35 fps
+[11:49:55.535] Current frames: 3317
+[11:49:57.535] Current frames: 3396
+[11:49:57.657] Decoded 3400 frames (I:41 P:3348 B:11) - 34.48 fps
+[11:49:59.536] Current frames: 3477
+[11:50:00.142] Decoded 3500 frames (I:48 P:3440 B:12) - 34.62 fps
+[11:50:01.536] Current frames: 3520
+[11:50:03.537] Current frames: 3520
+[11:50:05.538] Current frames: 3520
+[11:50:07.539] Current frames: 3520
+[11:50:09.540] Current frames: 3520
+[11:50:11.541] Current frames: 3520
+[11:50:11.541] Decoding complete, no new frames for 10 seconds
+[11:50:11.541] === Decode Complete ===
+[11:50:11.541] Total frames: 3520
+[11:50:11.541] I-frames: 48
+[11:50:11.541] P-frames: 3460
+[11:50:11.541] B-frames: 12
+[11:50:11.541] Time: 112500 ms
+[11:50:11.541] Average FPS: 31.29

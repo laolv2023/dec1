@@ -1,0 +1,30 @@
+E:\wison_svac_decode>svac_enhanced.exe
+Usage: svac_enhanced.exe <input.ps|dav|svac> <output.yuv> [log.txt]
+
+1. 如果就是需要得到  yuv  ， 就使用：                svac_enhanced.exe <input.ps|dav|svac> <output.yuv>
+2. 如果生成yuv的同时看到一些信息就是要：             svac_enhanced.exe <input.ps|dav|svac> <output.yuv> [log.txt]
+
+
+示例如下：
+E:\wison_svac_decode>svac_enhanced.exe  E:/part_10s_VIDEO.SVAC  E:/part_10s_video_1.yuv
+cpu_flags = MMX MMX2 SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2
+cpu_flags = MMX MMX2 SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2
+Current frames: 54
+Current frames: 128
+Current frames: 181
+Current frames: 193
+Current frames: 193
+Current frames: 193
+Current frames: 193
+Current frames: 193
+Current frames: 193
+
+=== Decode Statistics ===
+Total frames: 193
+I-frames: 0
+P-frames: 193
+B-frames: 0
+Time: 18016 ms
+Average FPS: 10.71
+
+E:\wison_svac_decode>
